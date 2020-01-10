@@ -13,9 +13,9 @@ project:
   machine_name: firstproject
   # Used for enforcing correct git commit msg syntax.
   prefix: BLT
-  human_name: 'BLTed 10'
+  human_name: 'BLTed 10 by Kenyon'
   profile:
-    name: lightning
+    name: demo_umami
   # This will be used as the local uri for all developers.
   local:
     protocol: http
